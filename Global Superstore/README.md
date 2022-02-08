@@ -6,5 +6,5 @@ Creating an Interactive Dashboard of 𝐆𝐥𝐨𝐛𝐚𝐥 𝐒𝐮𝐩𝐞�
 
 🔹 Ｄａｔａ - https://www.kaggle.com/shekpaul/global-superstore
 
-[Power BI Insight.pdf](https://github.com/YashMewati/Power-BI-/files/8026712/Power.BI.Insight.pdf)
+[Power BI Insight.pdf](https://github.com/YashMewati/Power-BI-/files/8026712/Power.BI.Insight.png)
 
