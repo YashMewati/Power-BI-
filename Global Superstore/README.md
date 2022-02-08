@@ -1,7 +1,7 @@
 # Global Superstore
 ## Statistical Analysis and visualization
 
-Creating an Interactive Dashboard of 𝐆𝐥𝐨𝐛𝐚𝐥 𝐒𝐮𝐩𝐞𝐫𝐒𝐭𝐨𝐫𝐞 Data using 𝐏𝐨𝐰𝐞𝐫-𝐁𝐈
+Creating an Interactive Dashboard of 𝐆𝐥𝐨𝐛𝐚𝐥 𝐒𝐮𝐩𝐞𝐫𝐒𝐭𝐨𝐫𝐞 Data using [𝐏𝐨𝐰𝐞𝐫-𝐁𝐈] https://powerbi.microsoft.com/en-us/ 
 
 
 🔹 Ｄａｔａ - https://www.kaggle.com/shekpaul/global-superstore
