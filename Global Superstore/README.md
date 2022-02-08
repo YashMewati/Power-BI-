@@ -13,3 +13,8 @@ Creating an Interactive Dashboard of [𝐆𝐥𝐨𝐛𝐚𝐥 𝐒𝐮𝐩𝐞�
 🔹 ２０１５ Ｒｅｐｏｒｔｓ
 
 ![2015 sales pdf - Personal - Microsoft​ Edge 2_9_2022 12_42_20 AM](https://user-images.githubusercontent.com/85125898/153058956-a27906ac-0e14-40d9-b960-7b4c5d95c702.png)
+
+
+🔹 Ｔｏｐ  Ｐｒｏｄｕｃｔｓ
+
+![top 1st product pdf - Personal - Microsoft​ Edge 2_9_2022 12_44_59 AM](https://user-images.githubusercontent.com/85125898/153059438-2a8d5558-a5c3-4ecf-a319-a217a05ea382.png)
